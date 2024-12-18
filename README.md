@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, error in HTML when manipulating the innerHTML of elements. The `bug.html` file showcases the issue, where appending to the innerHTML without proper consideration of the current content can result in unexpected or disordered output. The `bugSolution.html` file provides a corrected and more robust way to handle updates.
